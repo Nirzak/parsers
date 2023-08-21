@@ -1,0 +1,1 @@
+^(?P<time>\d+-\d+-\d+ \d+:\d+:\d+,\d+) (?P<threadName>.*?) IP:(?P<ip>\S*) S:(?P<server>\S*) U:(?P<user>\S*) A:(?P<auth>\S*) \[(?P<logger>[^:]+):(?P<loggerLine>[^\]]+)\] (?P<logLevel>\S+)\s+- (?P<message>[\s\S]+)

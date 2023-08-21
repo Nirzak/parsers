@@ -1,0 +1,1 @@
+(<(?P<priority>\d+)>)?(?P<timestamp>\S+\s+\S+\s+\S+)\s+(?P<host>\S+)\s+(?P<app>\S+)\s+node=(?P<audit_node>\S+)\s+type=(?P<audit_type>\S+)\smsg=audit\((\S+):(?P<audit_counter>\d+)\):\s(?P<audit_content>.*)

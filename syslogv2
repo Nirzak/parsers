@@ -1,0 +1,1 @@
+(<(?P<priority>\d+)>)?(?P<timestamp>\S+\s+\S+\s+\S+)\s+(?P<host>\S+)?\s+(?P<app>[^\s\[:]+)?(\[(?P<pid>[^\]]+)\]:)?(?P<msg>.*)

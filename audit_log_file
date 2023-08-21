@@ -1,0 +1,1 @@
+type=(?P<audit_type>\S+)\smsg=audit\((?P<timestamp>[\d\.]+):(?P<audit_counter>\d+)\):\s(?P<audit_content>.*)
